@@ -1,4 +1,8 @@
-public class NumberPattern {
+/**
+ * PrintZ
+ */
+public class PrintZ {
+
     public static void main(String[] args) {
         
     }
